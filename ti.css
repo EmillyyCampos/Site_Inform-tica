@@ -41,6 +41,7 @@ body{
     backdrop-filter: blur(5px);
     background: rgba(255,255,255,0.02);
     margin-top: 250px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
